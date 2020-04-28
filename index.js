@@ -1,8 +1,8 @@
 
 var animal = 'dog';
-=======
+
 var animal = 'animal';
->>>>>>> d7772d447bfda59b73b3045e110abdd600d27204
+
 
 function myAnimal() {
   // You should not need to modify this function
@@ -17,7 +17,7 @@ function yourAnimal() {
   // P.S.: Hard-coding 'cat' below will not work
   return animal;
 }
-<<<<<<< HEAD
+<<<<<<< HEA
 var number = 925;
 =======
 var number = n;
