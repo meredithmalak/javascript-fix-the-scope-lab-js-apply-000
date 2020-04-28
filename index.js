@@ -17,20 +17,20 @@ function yourAnimal() {
   // P.S.: Hard-coding 'cat' below will not work
   return animal;
 }
-<<<<<<< HEA
+
 var number = 925;
-=======
+
 var number = n;
->>>>>>> d7772d447bfda59b73b3045e110abdd600d27204
+
 function add2(n) {
   return n + two;
 
   // Feel free to move things around!
-<<<<<<< HEAD
+
   const two = (n);
-=======
+
   const two = (2);
->>>>>>> d7772d447bfda59b73b3045e110abdd600d27204
+
 }
 
 var funkyFunction = function() {
